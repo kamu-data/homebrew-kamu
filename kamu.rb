@@ -1,8 +1,8 @@
 class Kamu < Formula
   desc "Data transformation and analysis toolset"
   homepage "https://kamu.dev"
-  url "https://github.com/kamu-data/kamu-cli/releases/download/v0.1.2/kamu"
-  sha256 "929b7cc6f5059e5a0d011994fa066d4004904954b7b202101bc7055c18a295bb"
+  url "https://github.com/kamu-data/kamu-cli/releases/download/v0.3.0/kamu"
+  sha256 "903e8b302bfc99214ecbfd44796805a06bcaafcfc8b5984e406541dfeb83a9f2"
 
   def install
     bin.install "kamu"
